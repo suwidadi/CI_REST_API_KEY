@@ -1,2 +1,2 @@
-# CI REST API KEY
+# CodeIgniter REST API KEY
 Codeigniter 4 Library for API Key Checking
